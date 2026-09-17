@@ -16,12 +16,12 @@
     {
         "device_id": "bf239ae6c338bc1c",
         "key": "Lahuznah",
-        "expirydate": "31-12-9007",
+        "expirydate": "31-12-9028",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "bf239ae6c338bc1c",
+        "key": "Lahuznah",
         "expirydate": "15-06-9028",
         "Allowoffline": true
     }
