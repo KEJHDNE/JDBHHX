@@ -45,7 +45,7 @@
         "device_id": "6eb3bd29bc038cba",
         "key": "ali",
         "expirydate": "31-12-9027",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
