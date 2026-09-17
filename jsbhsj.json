@@ -28,14 +28,14 @@
 ]
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
+        "device_id": "bedf5ea90eed2ddb",
+        "key": "KSHDJJSHX",
         "expirydate": "31-12-9027",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "07ede0ac608d1d0d",
+        "key": "lwjjsusks",
         "expirydate": "15-06-9028",
         "Allowoffline": true
     }
