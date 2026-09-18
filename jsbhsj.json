@@ -18,9 +18,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "dev",
-        "key": "key0",
-        "expirydate": "15-06-2099",
+        "device_id": "g",
+        "key": "f",
+        "expirydate": "15-06-2098",
         "Allowoffline": true
     }
     {
