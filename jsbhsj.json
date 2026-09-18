@@ -1,50 +1,38 @@
 [
     {
-        "device_id": "27a078ae3454bfd9",
-        "key": "oheyhvg",
-        "expirydate": "31-12-2028",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-9027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-9028",
         "Allowoffline": true
     }
     {
-        "device_id": "0028a93603c839a9",
-        "key": "jshjejd",
-        "expirydate": "31-12-2028",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-9027",
         "Allowoffline": true
-    }
-        {
-        "device_id": "27a0fd9",
-        "key": "og",
-        "expirydate": "31-12-2028",
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-9028",
         "Allowoffline": true
     }
     {
-        "device_id": "0029a9",
-        "key": "jshd",
-        "expirydate": "31-12-2028",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-9027",
         "Allowoffline": true
-    }
-        {
-        "device_id": "27a078ae345yhhhgg4bfd9",
-        "key": "oheyhtttvg",
-        "expirydate": "31-12-2028",
-        "Allowoffline": true
-    }
+    },
     {
-        "device_id": "0028a93603c8cc39a9",
-        "key": "jshjffffejd",
-        "expirydate": "31-12-2028",
-        "Allowoffline": true
-    }
-        {
-        "device_id": "27a0fd9",
-        "key": "og",
-        "expirydate": "31-12-2028",
-        "Allowoffline": true
-    }
-    {
-        "device_id": "0029a9",
-        "key": "jshd",
-        "expirydate": "31-12-2028",
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-9028",
         "Allowoffline": true
     }
 ]
