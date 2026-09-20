@@ -1,16 +1,14 @@
 [
-  {
-    "id": "",
-    "username": "parsa",
-    "password": "parsa",
-    "expiresAt": "2027-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2027-11-30",
-    "allowOffline": false
-  }
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    }
 ]
