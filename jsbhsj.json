@@ -3,7 +3,7 @@
         "device_id": "27a078ae3454bfd9",
         "key": "parsa",
         "expirydate": "9-12-2039",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "bd9fb4df7374b312",
