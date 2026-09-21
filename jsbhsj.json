@@ -18,8 +18,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "b2",
-        "key": "jdu",
+        "device_id": "device",
+        "key": "key",
         "expirydate": "15-06-2028",
         "Allowoffline": false
     }
