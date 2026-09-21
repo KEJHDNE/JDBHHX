@@ -20,7 +20,7 @@
     {
         "device_id": "9b2594b838e1720c",
         "key": "123kak",
-        "expirydate": "21-6-2099",
-        "Allowoffline": false
+        "expirydate": "9-6-2099",
+        "Allowoffline": true
     }
 ]
