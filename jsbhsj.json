@@ -9,9 +9,9 @@
         "device_id": "bd9fb4df7374b312",
         "key": "jdjuuu",
         "expirydate": "15-06-2028",
-        "Allowoffline": false
+        "Allowoffline": true
     }
-        {
+    {
         "device_id": "c6cba0583e4f81a0",
         "key": "hidnnb",
         "expirydate": "9-12-2049",
